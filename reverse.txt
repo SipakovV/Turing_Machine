@@ -1,0 +1,5 @@
+aabbab! 15 3
+	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15
+.	2 . L	2 . N	6 a L	6 b L	5 . L	5 . L	11 . R	8 . N	9 . R	10 . R	11 . N	12 . R	13 . R	0 a N	0 b N
+a	1 a R	3 . R	3 a R	4 a R	7 a L	6 a L	8 a R	9 . R	3 a R	4 a R	12 . R	14 a R	15 a R	14 a R 15 a R
+b	1 b R	4 . R	3 b R	4 b R	7 b L	6 b L	8 b R	10 . R	3 b R	4 b R	13 . R	14 b R	15 b R	14 b R 15 b R
